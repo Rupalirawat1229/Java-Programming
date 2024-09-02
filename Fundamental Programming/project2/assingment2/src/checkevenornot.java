@@ -1,0 +1,15 @@
+public class checkevenornot {
+    public static void main(String[]args){
+
+                System.out.print("Enter an integer: ");
+                int num = 55                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ;
+                if (num % 2 == 0) {
+                    System.out.println(num + " is an even integer");
+                } else {
+                    System.out.println(num + " is an odd integer");
+                }
+            }
+        }
+
+
+
